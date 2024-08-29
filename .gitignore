@@ -154,7 +154,7 @@ deployment/ray/mednist_classifier_start.py
 auto3dseg/notebooks/datalist.json
 
 *.jpeg
-*.png
+# *.png
 *.np*
 *.pt
 
