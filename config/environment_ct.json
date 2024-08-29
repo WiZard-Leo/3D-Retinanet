@@ -1,0 +1,7 @@
+{
+    "model_path": "trained_models/model_ct_2nd.pt",
+    "data_base_dir": "/opt/data/private/lwz/workplace/tutorials/detection/data/ctdata_npy_256/",
+    "data_list_file_path": "/opt/data/private/lwz/workplace/tutorials/detection/data/ctdata_ann/train_and_test_npy_1st_center.json",
+    "tfevent_path": "tfevent_train/ct_2nd",
+    "result_list_file_path": "result/result_ct.json"
+}
